@@ -29,6 +29,7 @@
             Console.WriteLine("Line 7 - Condition is true")
         End If
         If (a OrElse b) Then
+        =
 
             Console.WriteLine("Line 8 - Condition is true")
         End If
